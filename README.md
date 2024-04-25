@@ -31,6 +31,4 @@ PageLink is compatible with most modern web browsers, including Google Chrome, M
 
 PageLink is released under the MIT License.
 
-## Contact
 
-For more information about PageLink, please visit our website or contact us at [contact@pagelink.com](mailto:contact@pagelink.com).

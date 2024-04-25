@@ -1,0 +1,18 @@
+{% extends'base.html.twig' %}
+
+{% block title %}About
+{% endblock %}
+{% block body %}
+
+
+	<nav class="navbar navbar-expand navbar-dark bg-dark">
+		<div class="nav navbar-nav">
+			<a class="nav-item nav-link" href="{{ path('home') }}">Home</a>
+			<a class="nav-item nav-link active" href="{{ path('about') }}" aria-current="page">About
+				<span class="visually-hidden">(current)</span>
+			</a>
+		</div>
+	</nav>
+
+
+{% endblock %}
